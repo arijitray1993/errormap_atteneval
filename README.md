@@ -57,6 +57,8 @@ Run
 
 This will save visualized error/attention maps to `vis/exp4_crippledmodel_corrpred_refinedattn_uncertainCAM_bigger_recheck/attention_refine.html` 
 
+## Making Error Maps on your custom Image-Question pairs
+Look at `interface.py` for a tutorial on how to generate error maps. 
 
-
+You will need to change paths in interface.py to point to your dataset locations. The datasets are available publicly. 
 
