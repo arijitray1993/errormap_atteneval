@@ -3,6 +3,8 @@
 Code for the paper: Knowing What VQA Does Not: [Pointing to Error-Inducing Regions to Improve Explanation Helpfulness](https://arxiv.org/abs/2103.14712)
 
 ## Getting and Generating Data
+Make a folder: `mkdir data/precomputed_attention_colorcrippled`, in root folder. 
+
 ### Pre-compute raw BERT attention values
 Go to `cd models/VQA/`
 
