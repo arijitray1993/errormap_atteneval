@@ -1,5 +1,7 @@
 # Generating Error Maps and Evaluating Attention and Error Maps
 
+Work-in-progress to make it user-friendly and understandable. A few data files are also missing. Will be corrected soon.  
+
 Code for the paper: Knowing What VQA Does Not: [Pointing to Error-Inducing Regions to Improve Explanation Helpfulness](https://arxiv.org/abs/2103.14712)
 
 ## Getting and Generating Data
